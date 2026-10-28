@@ -1,0 +1,20 @@
+Numero de version : 58
+
+Date de publication : 16/12/2024
+
+Date de validation : 15/11/2024
+
+Titre/commentaire : ROME 4.0 version 58 - 24M12
+
+Description : Cette version de décembre 2024 apporte des évolutions et modifications simples de contenu des 1056 fiches emplois disponibles depuis novembre 2024, consultables sur MétierScope et accéder au ROME.
+Présentation des évolutions sur cette version :
+Modification de référentiel :
+Renommage, changement d’indexation, changement d’attribut, création d’items sur les référentiels de Compétence, Macro-compétence et Savoir.
+Pas de modification du référentiel de Contextes de travail.
+ Modification de fiche :
+Sur le périmètre lien Code ROME – Item (savoir, compétence, macro, CDT) : suppression de liens, modification de l’attribut de lien Principal / Emergent
+Modifications de contenu des textes libres : définition et accès à l’emploi
+Suppression et ajout de mobilités
+Modification de Tags (Métier réglementé, Cadre, Transition numérique, Transition démographique et Transition écologique)
+
+
